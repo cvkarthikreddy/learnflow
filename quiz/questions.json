@@ -1,0 +1,158 @@
+{
+    "capital of states": [
+        {
+            "question": "What is the capital of Maharashtra?",
+            "options": ["Mumbai", "Pune", "Nagpur", "Aurangabad"],
+            "answer": "Mumbai"
+        },
+        {
+            "question": "Which city serves as the capital of the Indian state of West Bengal?",
+            "options": ["Kolkata", "Siliguri", "Darjeeling", "Asansol"],
+            "answer": "Kolkata"
+        },
+        {
+            "question": "What is the capital of the union territory of Jammu and Kashmir?",
+            "options": ["Srinagar (summer), Jammu (winter)", "Jammu", "Srinagar", "Leh"],
+            "answer": "Srinagar (summer), Jammu (winter)"
+        },
+        {
+            "question": "Name the capital of the Indian state of Tamil Nadu.",
+            "options": ["Chennai", "Coimbatore", "Madurai", "Tiruchirappalli"],
+            "answer": "Chennai"
+        },
+        {
+            "question": "Which city is the capital of the state of Uttar Pradesh?",
+            "options": ["Lucknow", "Kanpur", "Varanasi", "Agra"],
+            "answer": "Lucknow"
+        },
+        {
+            "question": "What is the capital of the Indian state of Karnataka?",
+            "options": ["Bengaluru", "Mysuru", "Hubli", "Mangalore"],
+            "answer": "Bengaluru"
+        },
+        {
+            "question": "Identify the capital of the state of Punjab.",
+            "options": ["Chandigarh", "Amritsar", "Ludhiana", "Jalandhar"],
+            "answer": "Chandigarh"
+        },
+        {
+            "question": "What is the capital of the union territory of Ladakh?",
+            "options": ["Leh", "Kargil", "Srinagar", "Jammu"],
+            "answer": "Leh"
+        },
+        {
+            "question": "Which city is the capital of the state of Rajasthan?",
+            "options": ["Jaipur", "Udaipur", "Jodhpur", "Kota"],
+            "answer": "Jaipur"
+        },
+        {
+            "question": "What is the capital of the Indian state of Gujarat?",
+            "options": ["Gandhinagar", "Ahmedabad", "Surat", "Vadodara"],
+            "answer": "Gandhinagar"
+        }
+    ],
+    "cricket questions": [
+        {
+            "question": "Which team won the ICC Cricket World Cup in 2011?",
+            "options": ["India", "Australia", "Sri Lanka", "Pakistan"],
+            "answer": "India"
+        },
+        {
+            "question": "Who holds the record for the most runs in a single ODI match?",
+            "options": ["Sachin Tendulkar", "Virat Kohli", "Ricky Ponting", "Rohit Sharma"],
+            "answer": "Rohit Sharma"
+        },
+        {
+            "question": "Which cricketer is known as 'The Master Blaster'?",
+            "options": ["Sachin Tendulkar", "Brian Lara", "Steve Waugh", "Jacques Kallis"],
+            "answer": "Sachin Tendulkar"
+        },
+        {
+            "question": "In which year did the T20 World Cup first take place?",
+            "options": ["2005", "2007", "2009", "2011"],
+            "answer": "2007"
+        },
+        {
+            "question": "Who is the highest wicket-taker in Test cricket?",
+            "options": ["Shane Warne", "Anil Kumble", "Muttiah Muralitharan", "James Anderson"],
+            "answer": "Muttiah Muralitharan"
+        },
+        {
+            "question": "Which stadium is known as 'The Eden Gardens'?",
+            "options": ["Kolkata", "Mumbai", "Delhi", "Chennai"],
+            "answer": "Kolkata"
+        },
+        {
+            "question": "Who captained India in the 2007 ICC T20 World Cup?",
+            "options": ["Sourav Ganguly", "MS Dhoni", "Kapil Dev", "Virat Kohli"],
+            "answer": "MS Dhoni"
+        },
+        {
+            "question": "n which year did MS Dhoni make his debut for the Indian national cricket team?",
+            "options": ["2004", "2000", "2005", "2003"],
+            "answer": "2004"
+        },
+        {
+            "question": "Which cricketer scored the fastest century in ODIs?",
+            "options": ["AB de Villiers", "Chris Gayle", "Ricky Ponting", "Sachin Tendulkar"],
+            "answer": "AB de Villiers"
+        },
+        {
+            "question": "Which country has hosted the most Cricket World Cups?",
+            "options": ["Australia", "India", "England", "South Africa"],
+            "answer": "England"
+        }
+    ],
+    "general knowledge": [
+        {
+            "question": "What is the largest planet in our solar system?",
+            "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+            "answer": "Jupiter"
+        },
+        {
+            "question": "Who painted the Mona Lisa?",
+            "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+            "answer": "Leonardo da Vinci"
+        },
+        {
+            "question": "Which element has the chemical symbol 'O'?",
+            "options": ["Gold", "Oxygen", "Osmium", "Opium"],
+            "answer": "Oxygen"
+        },
+        {
+            "question": "What is the capital city of Canada?",
+            "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+            "answer": "Ottawa"
+        },
+        {
+            "question": "Which country is known as the Land of the Rising Sun?",
+            "options": ["China", "Japan", "South Korea", "Thailand"],
+            "answer": "Japan"
+        },
+        {
+            "question": "In which year did the Titanic sink?",
+            "options": ["1905", "1912", "1915", "1920"],
+            "answer": "1912"
+        },
+        {
+            "question": "What is the smallest prime number?",
+            "options": ["1", "2", "3", "5"],
+            "answer": "2"
+        },
+        {
+            "question": "Which famous scientist developed the theory of relativity?",
+            "options": ["Isaac Newton", "Albert Einstein", "Niels Bohr", "Galileo Galilei"],
+            "answer": "Albert Einstein"
+        },
+        {
+            "question": "What is the hardest natural substance on Earth?",
+            "options": ["Gold", "Iron", "Diamond", "Platinum"],
+            "answer": "Diamond"
+        },
+        {
+            "question": "Which ocean is the largest by surface area?",
+            "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+            "answer": "Pacific Ocean"
+        }
+    ]
+}
